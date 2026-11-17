@@ -1,11 +1,17 @@
 # Simone De Carli
 
 **Software Engineer & Researcher | LLMs & Agentic AI**  
-Copenhagen · [LinkedIn](https://linkedin.com/in/simone-decarli)
+Copenhagen · [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/simone-decarli)
 
 MSc in Computer Science from the University of Trento, with the
 thesis conducted at DTU's CARP group in Copenhagen. I build LLM
 backends, agentic systems and evaluation tooling.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
 
 ### Recent
 
