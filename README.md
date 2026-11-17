@@ -27,10 +27,11 @@ backends, agentic systems and evaluation tooling.
 
 ### University projects
 
-- **Network stack simulator** — modular 802.15.4 wireless network
-  simulator in Python for performance evaluation of PHY/MAC/NETWORK
-  protocols. Simulation and Performance Evaluation course, UniTN.
-  [repo](https://github.com/damiano-salvaterra/SPE-project)
+- **LLM fingerprinting** — identifying which LLM generated a
+  counseling dialogue using TF-IDF + k-means + LIME. Near-perfect
+  separation across 4 models with interpretable features. Text
+  Mining course, LiU.
+  [repo](https://github.com/Congiuntivo/liu-tm)
 - **Mars Distributed Storage System** — Akka-based distributed KV
   store with quorum consistency, replication and failure recovery.
   Distributed Systems course, UniTN.
@@ -38,6 +39,15 @@ backends, agentic systems and evaluation tooling.
 - **PEPO** — parallel Emperor Penguin Optimizer in C with MPI +
   OpenMP, up to ~60x speedup on 50 nodes. HPC course, UniTN.
   [repo](https://github.com/Congiuntivo/pepo)
+- **Network stack simulator** — modular 802.15.4 wireless network
+  simulator in Python for performance evaluation of PHY/MAC/NETWORK
+  protocols. Simulation and Performance Evaluation course, UniTN.
+  [repo](https://github.com/damiano-salvaterra/SPE-project)
+- **Coalition Structure Generation report** — branch-and-bound
+  pruning for cooperative multi-agent systems. Theoretical review
+  following Sandholm et al. and Rahwan et al. Multi-Agent Systems
+  course, LiU.
+  [repo](https://github.com/Congiuntivo/liu-mas)
 
 ---
 
