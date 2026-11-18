@@ -36,6 +36,11 @@ backends, agentic systems and evaluation tooling.
   store with quorum consistency, replication and failure recovery.
   Distributed Systems course, UniTN.
   [repo](https://github.com/Congiuntivo/dist-sys-prj)
+- **Lightweight Neural Nets** — Forward-Forward neural network in C
+  for embedded devices and a C++ federated learning framework.
+  Tested on EMNIST against Backpropagation. Research Intern work,
+  UniTN.
+  [repo](https://github.com/Rubisoft-Partnership/lightweight-neural-nets)
 - **PEPO** — parallel Emperor Penguin Optimizer in C with MPI +
   OpenMP, up to ~60x speedup on 50 nodes. HPC course, UniTN.
   [repo](https://github.com/Congiuntivo/pepo)
