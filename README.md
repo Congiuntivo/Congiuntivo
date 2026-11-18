@@ -1,7 +1,7 @@
 # Simone De Carli
 
 **Software Engineer & Researcher | LLMs & Agentic AI**  
-Copenhagen · [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/simone-decarli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/simone-decarli) | Copenhagen
 
 MSc in Computer Science from the University of Trento, with the
 thesis conducted at DTU's CARP group in Copenhagen. I build LLM
