@@ -15,40 +15,40 @@ backends, agentic systems and evaluation tooling.
 
 ### Recent
 
-- **MSc thesis (DTU CARP, 2026)** — natural-language interface to a
-  mobile-sensing study-protocol authoring platform. Multi-agent LLM
-  pipeline + MCP server + Qdrant knowledge base.
-- **VALISE (ECAI 2025)** — LLM-as-judge evaluation framework for
+- 🎓 **MSc thesis (DTU CARP, 2026)** — natural-language interface to
+  a mobile-sensing study-protocol authoring platform. Multi-agent
+  LLM pipeline + MCP server + Qdrant knowledge base.
+- ⚖️ **VALISE (ECAI 2025)** — LLM-as-judge evaluation framework for
   pre-deployment reliability testing of conversational agents.
   [paper](https://doi.org/10.3233/faia251428)
-- **MAESTRO (AIME 2026)** — framework for trustworthy integration of
-  LLMs in psychological digital interventions.
+- 🎼 **MAESTRO (AIME 2026)** — framework for trustworthy integration
+  of LLMs in psychological digital interventions.
   [paper](https://doi.org/10.1007/978-3-032-30813-9_27)
 
 ### University projects
 
-- **LLM fingerprinting** — identifying which LLM generated a
+- 👣 **LLM fingerprinting** — identifying which LLM generated a
   counseling dialogue using TF-IDF + k-means + LIME. Near-perfect
   separation across 4 models with interpretable features. Text
   Mining course, LiU.
   [repo](https://github.com/Congiuntivo/liu-tm)
-- **Mars Distributed Storage System** — Akka-based distributed KV
+- 🚀 **Mars Distributed Storage System** — Akka-based distributed KV
   store with quorum consistency, replication and failure recovery.
   Distributed Systems course, UniTN.
   [repo](https://github.com/Congiuntivo/dist-sys-prj)
-- **Lightweight Neural Nets** — Forward-Forward neural network in C
-  for embedded devices and a C++ federated learning framework.
+- 🧠 **Lightweight Neural Nets** — Forward-Forward neural network in
+  C for embedded devices and a C++ federated learning framework.
   Tested on EMNIST against Backpropagation. Research Intern work,
   UniTN.
   [repo](https://github.com/Rubisoft-Partnership/lightweight-neural-nets)
-- **PEPO** — parallel Emperor Penguin Optimizer in C with MPI +
+- 🐧 **PEPO** — parallel Emperor Penguin Optimizer in C with MPI +
   OpenMP, up to ~60x speedup on 50 nodes. HPC course, UniTN.
   [repo](https://github.com/Congiuntivo/pepo)
-- **Network stack simulator** — modular 802.15.4 wireless network
+- 📡 **Network stack simulator** — modular 802.15.4 wireless network
   simulator in Python for performance evaluation of PHY/MAC/NETWORK
   protocols. Simulation and Performance Evaluation course, UniTN.
   [repo](https://github.com/damiano-salvaterra/SPE-project)
-- **Coalition Structure Generation report** — branch-and-bound
+- 📐 **Coalition Structure Generation report** — branch-and-bound
   pruning for cooperative multi-agent systems. Theoretical review
   following Sandholm et al. and Rahwan et al. Multi-Agent Systems
   course, LiU.
