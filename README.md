@@ -45,6 +45,11 @@ backends, agentic systems and evaluation tooling.
 - 🐧 **PEPO** — parallel Emperor Penguin Optimizer in C with MPI +
   OpenMP, up to ~60x speedup on 50 nodes. HPC course, UniTN.
   [repo](https://github.com/Congiuntivo/pepo)
+- 🎯 **Flying Bear Defense System** — embedded C on an MSP432
+  microcontroller driving a Nerf-blaster turret, with automatic
+  targeting via OpenCV + ArUco markers over an ESP32 bridge.
+  Embedded Software for IoT course, UniTN.
+  [repo](https://github.com/free-embedded/fbds)
 - 📡 **Network stack simulator** — modular 802.15.4 wireless network
   simulator in Python for performance evaluation of PHY/MAC/NETWORK
   protocols. Simulation and Performance Evaluation course, UniTN.
