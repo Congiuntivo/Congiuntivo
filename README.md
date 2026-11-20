@@ -17,7 +17,7 @@ backends, agentic systems and evaluation tooling.
 ### Recent
 
 - 🎓 **MSc thesis (DTU CARP, 2026)**  
-  natural-language interface to a mobile-sensing study-protocol authoring platform. Multi-agent LLM pipeline + MCP server + Qdrant knowledge base.
+  natural-language interface to a mobile-sensing study-protocol authoring platform. [Multi-agent LLM pipeline](https://github.com/Congiuntivo/cams-nli-engine) + [MCP server](https://github.com/Congiuntivo/cams-authoring-server) + [Qdrant knowledge base](https://github.com/Congiuntivo/cams-kb).
 - ⚖️ **VALISE (ECAI 2025)**  
   LLM-as-judge evaluation framework for pre-deployment reliability testing of conversational agents. [paper](https://doi.org/10.3233/faia251428)
 - 🎼 **MAESTRO (AIME 2026)**  
